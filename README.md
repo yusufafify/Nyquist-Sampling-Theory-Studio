@@ -69,7 +69,7 @@ Visual comparison of original and processed signals      </li>
     my_env/bin/activate
   </li>
       <li>
-        install the required libraried from the requirements.txt:
+        install the required dependencies from the requirements.txt:
 
     pip install -r requirements.txt
   </li>

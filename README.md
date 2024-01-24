@@ -77,4 +77,4 @@ Visual comparison of original and processed signals      </li>
 
 ## Preview
 
-![Recording2024-01-25000555-ezgif com-video-to-gif-converter](https://github.com/yusufafify/Signal-Composer-/assets/115397064/6ece2989-c29b-420b-89b7-99337f865fec)
+![Recording 1](https://github.com/yusufafify/Signal-Composer-/assets/115397064/8042f72f-09c3-4159-ab33-a5fff0db95af)

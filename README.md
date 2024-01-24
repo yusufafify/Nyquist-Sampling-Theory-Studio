@@ -77,4 +77,8 @@ Visual comparison of original and processed signals      </li>
 
 ## Preview
 
+
 ![Recording 1](https://github.com/yusufafify/Signal-Composer-/assets/115397064/8042f72f-09c3-4159-ab33-a5fff0db95af)
+![Recoring 2](https://github.com/yusufafify/Signal-Composer-/assets/115397064/30f97be3-5eec-4ef6-a8ea-91ff16cef62b)
+![Recording 3](https://github.com/yusufafify/Signal-Composer-/assets/115397064/2f6e6013-01ab-4b0b-b37c-1c968d6c9165)
+![Recording 4](https://github.com/yusufafify/Signal-Composer-/assets/115397064/9db21383-ecc6-42a1-a928-f5d384f27dba)
